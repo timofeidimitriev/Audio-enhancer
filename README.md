@@ -13,6 +13,6 @@
 
 ## Meta
 
-Timofei Dimitriev – [@Instagram](https://www.instagram.com/timofeidimitriev/)
+Timofei Dimitriev – [Instagram](https://www.instagram.com/timofeidimitriev/)
 
 Distributed under the GNU General Public License v3.0. See ``LICENSE`` for more information.
